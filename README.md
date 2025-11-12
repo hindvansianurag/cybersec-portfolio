@@ -7,7 +7,7 @@ Welcome to my cybersecurity portfolio! I'm Anurag, a BTech Computer Science stud
 - **Languages**: C, Python, Bash
 - **Tools**: Nmap, Wireshark, Burp Suite, Metasploit
 - **Platforms**: Linux (Kali, Ubuntu), Windows
-- **Domains**: Networking, Penetration Testing, Vulnerability Analysis
+- **Domains**: Networking, Penetration Testing, Vulnerability Analysis.
 
 ## 📂 Projects
 
